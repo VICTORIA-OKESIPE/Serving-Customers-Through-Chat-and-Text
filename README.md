@@ -9,4 +9,4 @@ As learned, I will share few tips on the following subtopics:
 5. Blending templates and free text
 6. Writing in your company’s brand voice
 7. Pushing content that boosts sales
-
+p
