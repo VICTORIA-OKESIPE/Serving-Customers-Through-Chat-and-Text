@@ -11,5 +11,3 @@ As learned, I will share few tips on the following subtopics:
 7. Pushing content that boosts sales
 p
 p
-
-15p
