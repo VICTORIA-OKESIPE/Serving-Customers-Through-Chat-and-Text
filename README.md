@@ -18,6 +18,6 @@ As learned, I will share few tips on the following subtopics:
 
 ---
 Kinds of Questions
-- Open-ended Questions
-- Probing Questions
-- Close-ended Questions
+- Open-ended Questions: To get a broad idea of what the customers need is, and possible solutions.
+- Probing Questions: To Get more specific answer that could help give a better solution.
+- Close-ended Questions: Th confirm customer's need.
