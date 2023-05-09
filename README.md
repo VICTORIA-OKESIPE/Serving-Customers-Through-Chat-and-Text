@@ -16,7 +16,7 @@ As learned, I will share few tips on the following subtopics:
 
 7. Pushing content that boosts sales.
 
-===
+---
 Kinds of Questions
 - Open-ended Questions
 - Probing Questions
