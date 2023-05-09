@@ -21,3 +21,6 @@ Kinds of Questions
 - Open-ended Questions: To get a broad idea of what the customers need is, and possible solutions.
 - Probing Questions: To Get more specific answer that could help give a better solution.
 - Close-ended Questions: Th confirm customer's need.
+
+--- Switching Communication Channels
+- Knowing when to switch communication channel is very essential: from text/chat to call
