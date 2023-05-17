@@ -14,7 +14,7 @@ As learned, I will share few tips on the following subtopics:
 
 6. Writing in your company’s brand voice.
 
-7. Pushing content that boosts sales.
+7. Pushing content that boosts sales..
 
 ---
 Kinds of Questions
