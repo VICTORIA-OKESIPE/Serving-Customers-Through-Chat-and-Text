@@ -7,7 +7,7 @@ As learned, I will share few tips on the following subtopics:
 2. Switching channels with ease.
 ---
 3. Handling delays.
-
+---
 4. Managing your response length.
 
 5. Blending templates and free text.
