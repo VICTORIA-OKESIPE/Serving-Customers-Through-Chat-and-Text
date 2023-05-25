@@ -27,5 +27,3 @@ Kinds of Questions
 --- 
 Switching Communication Channels
 - Knowing when to switch communication channel is very essential: from text/chat to call
-
-l
