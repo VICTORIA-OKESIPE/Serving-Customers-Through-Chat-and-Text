@@ -6,7 +6,7 @@ As learned, I will share few tips on the following subtopics:
 - Knowing the right questions to ask is crucial in providing customer support..
 ---
 2. Switching channels with ease.
-- There is usually that point where the channel of communication will be switched to what will work best....
+- There is usually that point where the channel of communication will be switched to what will work best.....
 ---
 3. Handling delays.
 ---
