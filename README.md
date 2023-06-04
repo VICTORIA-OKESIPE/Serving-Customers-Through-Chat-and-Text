@@ -2,7 +2,7 @@
 Here is an excerpt of the writing skills you’ll need to provide top-notch live chat and text customer service.
 
 As learned, I will share few tips on the following subtopics:
-1. Asking questions that solve problems.................................
+1. Asking questions that solve problems...................................
 - Knowing the right questions to ask is crucial in providing customer support.
 ---
 2. Switching channels with ease.
