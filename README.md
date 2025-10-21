@@ -8,7 +8,7 @@ As learned, I will share few tips on the following subtopics:
 2. Switching channels with ease.
 - There is usually that point where the channel of communication will be switched to what will work best.
 ---
-3. Handling delays (or feedback).
+3. Handling delays (or feedbacks).
 ---
 4. Managing your response length.
 ----
